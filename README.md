@@ -36,5 +36,4 @@ This is a data visualization project focused on analyzing Amazon’s sales perfo
 ## 🙋‍♀️ Created By
 **Lubna Shaikh** – Power BI and Data Analytics Enthusiast
 
-## 🙋‍♀️ Created By
-**Lubna Shaikh** – Power BI and Data Analytics Enthusiast
+
